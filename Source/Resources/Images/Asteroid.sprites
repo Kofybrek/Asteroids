@@ -1,0 +1,26 @@
+Name: ASTEROID_0
+Origin x: 32
+Origin y: 32
+Sprite height: 64
+Sprite width: 64
+Texture x: 0
+Texture y: 0
+Total frames: 2
+
+Name: ASTEROID_1
+Origin x: 16
+Origin y: 16
+Sprite height: 32
+Sprite width: 32
+Texture x: 0
+Texture y: 64
+Total frames: 2
+
+Name: ASTEROID_2
+Origin x: 8
+Origin y: 8
+Sprite height: 16
+Sprite width: 16
+Texture x: 64
+Texture y: 64
+Total frames: 2

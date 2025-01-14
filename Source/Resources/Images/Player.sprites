@@ -1,0 +1,17 @@
+Name: PLAYER_IDLE
+Origin x: 8
+Origin y: 8
+Sprite height: 16
+Sprite width: 16
+Texture x: 0
+Texture y: 0
+Total frames: 1
+
+Name: PLAYER_MOVE
+Origin x: 11
+Origin y: 8
+Sprite height: 16
+Sprite width: 19
+Texture x: 16
+Texture y: 0
+Total frames: 3
